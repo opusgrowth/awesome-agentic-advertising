@@ -97,6 +97,7 @@ A curated list of tools, MCP servers, protocols, and resources for AI-powered ad
 - [r/adops](https://reddit.com/r/adops) - Ad operations community
 - [r/MarketingAutomation](https://reddit.com/r/MarketingAutomation) - Marketing automation discussions
 - [MCP Discord](https://discord.gg/mcp) - Model Context Protocol community
+- [Opus Growth](https://mcp.opus-growth.com) - Hosted MCP connector to manage Google Ads, Microsoft Advertising, TikTok Ads and LinkedIn Ads from Claude, ChatGPT and any MCP client. 233 tools, real writes with dry-run approval gates, agency/MCC-safe, hosted OAuth.
 
 ---
 
